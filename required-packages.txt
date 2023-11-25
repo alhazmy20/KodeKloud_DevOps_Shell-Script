@@ -1,0 +1,7 @@
+mariadb-server
+httpd
+php
+php-mysql
+git
+firewalld
+git
