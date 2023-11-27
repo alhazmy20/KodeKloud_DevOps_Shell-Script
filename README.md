@@ -1,10 +1,16 @@
-# Automate Server Configuration 
+# Automate Server Configuration
 
-This is a simple project created to showcase what I've learned while attending the DevOps Learning Path on KodeKloud.
-- The purpose of this project is to automate a server configuration using a shell script that does the following:
-    - Install required packages.
-    - Start and Enable services.
-    - Add necessary ports to the firewall.
-    - Configure MySQL Database.
-    - Clone git project.
-    - Run the application and check if the items exist from database.
+This project serves as a practical demonstration of my learnings from the DevOps Learning Path on KodeKloud.
+
+## Project Overview
+
+The primary goal of this project is to automate server configuration using a shell script. The script performs the following tasks:
+
+- Installs required packages.
+- Starts and enables services.
+- Adds necessary ports to the firewall.
+- Configures MySQL Database.
+- Clones a Git project.
+- Runs the application and checks if the items exist in the database.
+
+
